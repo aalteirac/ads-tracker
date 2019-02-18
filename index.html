@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Ads Tracker</title>
+    <script src="dist/build.js"></script>     
+</head>
+<body>
+<style>
+    .form-inline {
+        margin-top: 5px;
+    }
+    span{
+        margin-left:3px;
+    }
+    input{
+        margin-left: 3px;
+    }
+    .ripanel{
+       
+    }
+    .over{
+        position: absolute;
+        z-index: 1;
+        height: calc(100% - 105px);
+        width: calc(100% - 15px);
+        opacity: 0.7;
+        display: table;
+        background-color: blue;
+    }
+    .txt{
+        display: table-cell;
+        vertical-align: middle;
+        text-align: center;
+        color: black;
+        font-size: 60px;
+    }
+    .live{
+        position: absolute;
+        opacity: 0.2;
+        height: calc(100% - 105px);
+        width: calc(100% - 15px);
+    }
+    .mych{
+        margin-left: 10px;
+        cursor: pointer;
+    }
+    .chlist{
+        -webkit-overflow-scrolling: touch;
+        background-color:white;
+        overflow: auto;
+        width: calc(100% - 15px);
+        display: -webkit-inline-box;
+        position: absolute;
+        height: 100px;
+        top:calc(100% - 100px)
+    }
+</style>
+<div class="ripanel" >
+    <div id="lay" class="over">
+        <div style="height: 100%" class="txt"  id="predict">
+            ...LOADING MODEL...
+        </div>
+    </div>
+    <div class="live">
+        <img id="lv" height="100%" width="100%" src="/lv" alt="">
+    </div>
+</div>
+<div id="ch" class="chlist">
+</div>
+</body>
+
+</html>

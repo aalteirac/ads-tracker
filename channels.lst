@@ -1,0 +1,59 @@
+#EXTM3U
+#EXTINF:-1 logo="http://192.168.1.20:9981/imagecache/3" tvg-id="516bc1641445edf6a5f074ec916e98d7",TF1
+http://192.168.1.20:9981/stream/channelid/1690397521?ticket=EF8477A6D1AE334E1039A79D260F422211086356&profile=pass
+#EXTINF:-1 logo="http://192.168.1.20:9981/imagecache/4" tvg-id="9c6b9586bc478bc6c604e86dab603c2c",France 2
+http://192.168.1.20:9981/stream/channelid/110455708?ticket=F2E89404855AF269B0CE07BB2E899771FAC24E20&profile=pass
+#EXTINF:-1 logo="http://192.168.1.20:9981/imagecache/5" tvg-id="860b16e8c956af8a14df44ef49ec2d7a",F3 Midi-Pyrénées
+http://192.168.1.20:9981/stream/channelid/1746275206?ticket=DC27FDD5BA185CA87EBE912E42180B491A56A7EF&profile=pass
+#EXTINF:-1 logo="http://192.168.1.20:9981/imagecache/6" tvg-id="e7b8d1c6089621ae520db7950495caa7",CANAL+
+http://192.168.1.20:9981/stream/channelid/1188149479?ticket=275F4B376A3E0762A7998C59C1311883DAF721A5&profile=pass
+#EXTINF:-1 logo="http://192.168.1.20:9981/imagecache/7" tvg-id="1d8b63bab6b59c4a4c3cf0ef44f56164",France 5
+http://192.168.1.20:9981/stream/channelid/979602205?ticket=710F7F3ED1A6FE0D8D45083D32D72A5FF3E43F8E&profile=pass
+#EXTINF:-1 logo="http://192.168.1.20:9981/imagecache/8" tvg-id="841e2aad12721871521e081292b0b574",M6
+http://192.168.1.20:9981/stream/channelid/757735044?ticket=0CF1E534D978C8FF4160C5406FFCF501D3374884&profile=pass
+#EXTINF:-1 logo="http://192.168.1.20:9981/imagecache/2" tvg-id="101dbf8d8989dd3202bbf11ffd4c4afb",Arte
+http://192.168.1.20:9981/stream/channelid/230628624?ticket=41BFCFB339374F743B4C79E9C4FFD55C97834422&profile=pass
+#EXTINF:-1 logo="http://192.168.1.20:9981/imagecache/9" tvg-id="8fdaac6ae9de9c6aabbefdd528caabaf",C8
+http://192.168.1.20:9981/stream/channelid/1789713039?ticket=A678C52FF6A4F51DEF4688370115C79F168FEDBF&profile=pass
+#EXTINF:-1 logo="http://192.168.1.20:9981/imagecache/10" tvg-id="f8d8e653a2b5983a14f3612e4dc1282c",W9
+http://192.168.1.20:9981/stream/channelid/1407637752?ticket=D37D8CCCCAA9A43648FD38D47CFF0DA4F491A787&profile=pass
+#EXTINF:-1 logo="http://192.168.1.20:9981/imagecache/30" tvg-id="be969fc23e822ca0562dd843d273ca26",TMC
+http://192.168.1.20:9981/stream/channelid/1117755070?ticket=607F97BEFC9414FCF612F6A27733FB555318D004&profile=pass
+#EXTINF:-1 logo="http://192.168.1.20:9981/imagecache/11" tvg-id="78e7648dc59b8e8d3fed97cc15641295",TFX
+http://192.168.1.20:9981/stream/channelid/224716664?ticket=D2C44CAEA9C6EC219107399FC4278B024DC8DA91&profile=pass
+#EXTINF:-1 logo="http://192.168.1.20:9981/imagecache/12" tvg-id="de0a4c8258bb1db37c494e15c60a811e",NRJ12
+http://192.168.1.20:9981/stream/channelid/38537950?ticket=88734B2B53151E5D5A240D91AFA6209F407BD959&profile=pass
+#EXTINF:-1 logo="http://192.168.1.20:9981/imagecache/13" tvg-id="ed7b555e3c8c4812ebea3278b537ecbb",LCP
+http://192.168.1.20:9981/stream/channelid/1582660589?ticket=6D71136C1FB5442956E160F1A69A2888EE0B978E&profile=pass
+#EXTINF:-1 logo="http://192.168.1.20:9981/imagecache/14" tvg-id="571c5d800df44a39f71f873e2bef297d",France 4
+http://192.168.1.20:9981/stream/channelid/6102103?ticket=7186510A17C813ACBC35672626332B130DA02E74&profile=pass
+#EXTINF:-1 logo="http://192.168.1.20:9981/imagecache/15" tvg-id="ec4485a91717c45bae9449b818dc74f8",BFM TV
+http://192.168.1.20:9981/stream/channelid/696599788?ticket=058D433F69BC6E2A12DA51934795B2218EF1375C&profile=pass
+#EXTINF:-1 logo="http://192.168.1.20:9981/imagecache/17" tvg-id="1d0ffa6d88cd20d97d51f95e4267c253",CNEWS
+http://192.168.1.20:9981/stream/channelid/1845104413?ticket=D19DBA1AC65D6210478289200CD3C411411803AC&profile=pass
+#EXTINF:-1 logo="http://192.168.1.20:9981/imagecache/28" tvg-id="f6b5f8e0b9b81f69ff0d9ecc74f46598",CSTAR
+http://192.168.1.20:9981/stream/channelid/1626912246?ticket=55F0993E345948772867BCCC90CFA063F77058D7&profile=pass
+#EXTINF:-1 logo="http://192.168.1.20:9981/imagecache/18" tvg-id="3b08df7391215ce0f5d9083d2965a234",Gulli
+http://192.168.1.20:9981/stream/channelid/1943996475?ticket=A19AA656D1CB2C49CC8D809A8A3F6BC48235F456&profile=pass
+#EXTINF:-1 logo="http://192.168.1.20:9981/imagecache/19" tvg-id="0c43448f5b0ac5de70fc0d650892825a",France Ô
+http://192.168.1.20:9981/stream/channelid/256131852?ticket=51B379CFBAC671D1A37F60389272D61516D7D620&profile=pass
+#EXTINF:-1 logo="http://192.168.1.20:9981/imagecache/20" tvg-id="874c751c6a9d8a3cc5a99038917e87a7",TF1 Séries Films
+http://192.168.1.20:9981/stream/channelid/477449351?ticket=177DB1FC67C037915CB800C3CA74B1012482D8C3&profile=pass
+#EXTINF:-1 logo="http://192.168.1.20:9981/imagecache/21" tvg-id="929731b909ceed7dd0aa1564008c42b1",L'Equipe 21
+http://192.168.1.20:9981/stream/channelid/959551378?ticket=57B85E8EF7157A6C995CB3DE31BF7A820A77B91F&profile=pass
+#EXTINF:-1 logo="http://192.168.1.20:9981/imagecache/22" tvg-id="abfb7a25c8a10ca72b209177b3ad5efa",6ter
+http://192.168.1.20:9981/stream/channelid/628816811?ticket=AC9743F3A8842E0E5FB955885159DCF38AC0438E&profile=pass
+#EXTINF:-1 logo="http://192.168.1.20:9981/imagecache/23" tvg-id="4d69778454a93b5ba6cbb749133eedfd",RMC STORY
+http://192.168.1.20:9981/stream/channelid/74934605?ticket=451091D855C83625B2180B5147150118980099D6&profile=pass
+#EXTINF:-1 logo="http://192.168.1.20:9981/imagecache/24" tvg-id="b2c2263b771cba30b93fd190797bf2aa",RMC Découverte
+http://192.168.1.20:9981/stream/channelid/992395954?ticket=7BFED46197DAC4D65CC7D412454388AF6AB981BF&profile=pass
+#EXTINF:-1 logo="http://192.168.1.20:9981/imagecache/25" tvg-id="3bcf44ec2a409473f595a9aa2f786621",Chérie 25
+http://192.168.1.20:9981/stream/channelid/1816448827?ticket=FA5B8CAE89455C984B0ADDDF7D887DA0CB0D1388&profile=pass
+#EXTINF:-1 logo="http://192.168.1.20:9981/imagecache/26" tvg-id="19dc24fb7a3daaab088f8c8371c71f0f",LCI
+http://192.168.1.20:9981/stream/channelid/2066013209?ticket=2A4CD8E01D1AA8C3380021BDD0A3840C2DCB12EB&profile=pass
+#EXTINF:-1 logo="http://192.168.1.20:9981/imagecache/27" tvg-id="9b1031f588421c3104f75c4e3b0ef6e6",franceinfo:
+http://192.168.1.20:9981/stream/channelid/1966149787?ticket=03F59E5E924DE9CD257E9C0DB2CA7A3F795DCF3C&profile=pass
+#EXTINF:-1 logo="http://192.168.1.20:9981/imagecache/5" tvg-id="84214509486d023921024d8df474c899",F3 Aquitaine
+http://192.168.1.20:9981/stream/channelid/155525508?ticket=5EBC54ACC42065F915DD52C3ACBA5A384B05A558&profile=pass
+#EXTINF:-1 logo="http://192.168.1.20:9981/imagecache/29" tvg-id="9d956ecd3f096b70874024432f024c26",PARIS PREMIERE
+http://192.168.1.20:9981/stream/channelid/1299092893?ticket=8397093ADD93C4DF81C842D846E28C4DBDF60DBC&profile=pass
