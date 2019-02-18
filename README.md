@@ -1,3 +1,6 @@
+[Read more here](https://medium.com/@anthony_62961/no-more-tv-ads-machine-learning-to-the-rescue-32c943a47f7e) 
+
+
 This code works in conjunction with ffserver configured to stream mjpeg:
 
         HTTPPort            8090
